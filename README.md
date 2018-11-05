@@ -1,7 +1,7 @@
 # Composer
 ## resource
 
-- Composer官网：https://getcomposer.org/
+- Composer官方网站：https://getcomposer.org/
 - Composer中文站点：http://www.phpcomposer.com/
 
 ## Composer安装
